@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+
+.btn-primary {
+	width: 120px;
+	}
+.form-control {
+	margin-left: 7px;
+	margin-right: 10px;
+	width: 94%;
+}
+
+

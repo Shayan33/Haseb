@@ -1,0 +1,58 @@
+@CHARSET "UTF-8";
+
+@font-face {
+	font-family: B Nazanin;
+	src: fonts/B Nazanin+ Regular.ttf;
+}
+
+
+div.mybody-class {
+	width: 80%;
+	margin-left: 10%;
+	background-color: #FFFFFF;
+	height: auto;
+	box-shadow: 0px 0px 8px 2px black;
+	margin-bottom: 200px;
+}
+
+p {
+	text-align: center;
+	font-size: x-large;
+}
+
+.button.on-hover.checkbox.dropdown {
+	box-sizing: border-box
+}
+
+
+.all-table-content-class {
+	padding: 20px;
+}
+
+.addManually{
+	margin-left: 1064px;
+	margin-top: 10%;
+}
+
+#backgroundPrj{
+	background-color: red;
+	width: 120px;
+	height: 25px;
+	text-align: center;
+	border-radius : 2px; 
+	color: white;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
